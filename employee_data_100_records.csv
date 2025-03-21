@@ -1,0 +1,101 @@
+Employee_ID,Name,Department,Salary,Join_Date,Performance_Score,Bonus,Location,Manager_ID,Status
+101,Employee_1,HR,103828,1/1/2015,98,9454,Boston,303,Resigned
+102,Employee_2,IT,104145,1/31/2015,78,,New York,301,On Leave
+103,Employee_3,Operations,58164,3/2/2015,79,5765,Boston,303,Resigned
+104,Employee_4,Finance,56490,4/1/2015,91,9691,New York,303,Resigned
+105,Employee_5,HR,85256,5/1/2015,95,3749,Chicago,303,Resigned
+106,Employee_6,HR,71479,5/31/2015,69,6309,Los Angeles,303,Active
+107,Employee_7,HR,118577,6/30/2015,81,8095,San Jose,304,Resigned
+108,Employee_8,Finance,112772,7/30/2015,69,8597,Boston,302,Resigned
+109,Employee_9,Marketing,57043,8/29/2015,60,6196,Los Angeles,305,Resigned
+110,Employee_10,Finance,109164,9/28/2015,93,8278,San Jose,302,Resigned
+111,Employee_11,IT,94333,10/28/2015,93,,San Jose,303,Active
+112,Employee_12,Marketing,88624,11/27/2015,70,9175,San Jose,301,Retired
+113,Employee_13,Operations,59831,12/27/2015,82,6585,Chicago,302,On Leave
+114,Employee_14,Finance,118414,1/26/2016,90,4957,San Jose,301,Active
+115,Employee_15,HR,,2/25/2016,87,7461,San Jose,304,On Leave
+116,Employee_16,Marketing,56938,3/26/2016,67,,San Jose,302,Retired
+117,Employee_17,HR,115768,4/25/2016,71,3273,Los Angeles,305,Retired
+118,Employee_18,Finance,96925,5/25/2016,74,8136,Los Angeles,302,Retired
+119,Employee_19,IT,99366,6/24/2016,67,6696,New York,304,On Leave
+120,Employee_20,Marketing,99498,7/24/2016,68,6067,New York,301,Retired
+121,Employee_21,Finance,76238,8/23/2016,86,,New York,302,On Leave
+122,Employee_22,IT,114701,9/22/2016,68,5189,San Jose,305,On Leave
+123,Employee_23,Marketing,64997,10/22/2016,75,9148,New York,305,Retired
+124,Employee_24,IT,60459,11/21/2016,90,8739,San Jose,301,Active
+125,Employee_25,Marketing,116262,12/21/2016,72,5649,San Jose,305,Active
+126,Employee_26,Operations,112063,1/20/2017,66,6680,New York,301,Retired
+127,Employee_27,Operations,78762,2/19/2017,66,4107,Boston,304,Resigned
+128,Employee_28,Finance,87058,3/21/2017,92,5948,Boston,303,Retired
+129,Employee_29,Marketing,95373,4/20/2017,97,,Boston,304,Resigned
+130,Employee_30,Operations,100362,5/20/2017,65,9808,New York,302,On Leave
+131,Employee_31,IT,75761,6/19/2017,78,7738,San Jose,301,Resigned
+132,Employee_32,HR,68229,7/19/2017,64,4195,New York,302,Resigned
+133,Employee_33,Finance,61203,8/18/2017,94,8540,San Jose,301,Active
+134,Employee_34,HR,94619,9/17/2017,,8994,Boston,301,On Leave
+135,Employee_35,IT,102731,10/17/2017,76,3731,San Jose,305,On Leave
+136,Employee_36,IT,60910,11/16/2017,72,5830,Chicago,301,On Leave
+137,Employee_37,Operations,75158,12/16/2017,86,4982,Chicago,304,Resigned
+138,Employee_38,Operations,82068,1/15/2018,89,5118,Los Angeles,302,Active
+139,Employee_39,Operations,59000,2/14/2018,92,6516,Los Angeles,304,Resigned
+140,Employee_40,HR,64662,3/16/2018,62,6050,Chicago,305,On Leave
+141,Employee_41,Operations,88295,4/15/2018,95,3536,San Jose,301,On Leave
+142,Employee_42,HR,114590,5/15/2018,96,8295,Boston,304,Active
+143,Employee_43,IT,115140,6/14/2018,87,3318,Boston,304,Resigned
+144,Employee_44,Finance,70985,7/14/2018,69,8395,Boston,305,On Leave
+145,Employee_45,HR,106641,8/13/2018,70,9113,Chicago,303,Resigned
+146,Employee_46,Finance,71455,9/12/2018,70,4743,New York,305,Resigned
+147,Employee_47,IT,75804,10/12/2018,69,6700,Boston,303,Retired
+148,Employee_48,Marketing,50355,11/11/2018,93,9412,Los Angeles,305,Active
+149,Employee_49,IT,118020,12/11/2018,92,9797,Chicago,302,Active
+150,Employee_50,IT,80178,1/10/2019,62,,Los Angeles,301,Retired
+151,Employee_51,HR,105031,2/9/2019,72,9213,San Jose,305,Active
+152,Employee_52,HR,75552,3/11/2019,69,9243,San Jose,303,On Leave
+153,Employee_53,Operations,114620,4/10/2019,100,4451,San Jose,301,On Leave
+154,Employee_54,Operations,54284,5/10/2019,94,7171,Boston,304,On Leave
+155,Employee_55,Marketing,83370,6/9/2019,70,8200,San Jose,302,On Leave
+156,Employee_56,Finance,52502,7/9/2019,75,,Boston,302,Resigned
+157,Employee_57,HR,92987,8/8/2019,73,8029,San Jose,303,Resigned
+158,Employee_58,Marketing,85151,9/7/2019,75,,Chicago,302,On Leave
+159,Employee_59,Finance,64072,10/7/2019,91,9405,Los Angeles,305,Resigned
+160,Employee_60,Finance,,11/6/2019,96,,Chicago,305,Resigned
+161,Employee_61,IT,114335,12/6/2019,75,7135,San Jose,304,Retired
+162,Employee_62,Marketing,56074,1/5/2020,99,7311,New York,304,Resigned
+163,Employee_63,Finance,56675,2/4/2020,,,Los Angeles,304,Active
+164,Employee_64,Finance,113938,3/5/2020,66,8179,San Jose,302,Active
+165,Employee_65,Operations,78686,4/4/2020,86,4643,San Jose,303,Active
+166,Employee_66,HR,77511,5/4/2020,85,9914,Chicago,305,Active
+167,Employee_67,HR,109890,6/3/2020,66,6387,San Jose,304,Resigned
+168,Employee_68,IT,109687,7/3/2020,61,5868,New York,301,Active
+169,Employee_69,HR,81469,8/2/2020,93,4826,New York,305,Resigned
+170,Employee_70,Finance,75380,9/1/2020,88,4573,Los Angeles,301,Active
+171,Employee_71,HR,86918,10/1/2020,63,6009,Los Angeles,302,Active
+172,Employee_72,Operations,75279,10/31/2020,75,5630,Boston,302,Active
+173,Employee_73,Finance,96794,11/30/2020,64,7274,Chicago,305,Resigned
+174,Employee_74,Finance,85975,12/30/2020,78,,New York,304,On Leave
+175,Employee_75,Finance,55694,1/29/2021,89,,Chicago,304,Active
+176,Employee_76,IT,81319,2/28/2021,73,7451,San Jose,303,On Leave
+177,Employee_77,HR,61683,3/30/2021,71,3739,New York,303,Active
+178,Employee_78,Finance,72310,4/29/2021,84,8156,Boston,305,Active
+179,Employee_79,IT,85608,5/29/2021,91,6309,Chicago,303,Resigned
+180,Employee_80,Marketing,78274,6/28/2021,72,6470,San Jose,301,On Leave
+181,Employee_81,HR,96871,7/28/2021,67,4821,Chicago,304,Active
+182,Employee_82,Operations,112342,8/27/2021,81,6247,New York,301,Resigned
+183,Employee_83,Marketing,70319,9/26/2021,93,4133,Los Angeles,303,Resigned
+184,Employee_84,Operations,106490,10/26/2021,96,9828,Boston,303,On Leave
+185,Employee_85,Marketing,93398,11/25/2021,78,9942,New York,302,Resigned
+186,Employee_86,HR,93831,12/25/2021,92,,Los Angeles,301,Retired
+187,Employee_87,Marketing,104935,1/24/2022,71,6499,Chicago,301,Active
+188,Employee_88,IT,96962,2/23/2022,83,3614,Boston,302,Resigned
+189,Employee_89,IT,116983,3/25/2022,95,9445,Los Angeles,305,Active
+190,Employee_90,Operations,73092,4/24/2022,98,3223,Boston,304,Retired
+191,Employee_91,Finance,102090,5/24/2022,90,6216,Boston,302,Retired
+192,Employee_92,Operations,105075,6/23/2022,71,7848,Chicago,301,Resigned
+193,Employee_93,IT,93113,7/23/2022,79,5425,New York,302,Retired
+194,Employee_94,HR,92481,8/22/2022,62,8578,Chicago,303,Resigned
+195,Employee_95,IT,89196,9/21/2022,,9261,Los Angeles,304,Active
+196,Employee_96,Operations,84128,10/21/2022,80,8583,Los Angeles,302,Active
+197,Employee_97,HR,104323,11/20/2022,64,,New York,301,Retired
+198,Employee_98,Operations,84371,12/20/2022,94,6922,New York,301,Retired
+199,Employee_99,Operations,62793,1/19/2023,69,4290,New York,304,Resigned
+200,Employee_100,Operations,108923,2/18/2023,71,6307,San Jose,305,On Leave
